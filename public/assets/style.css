@@ -1263,3 +1263,8 @@ input:focus, select:focus, textarea:focus { border-color: var(--gold); box-shado
 .tabbar a[aria-current] { color: var(--gold); font-weight: 500; }
 .side-rail, .side-rail button { background: var(--bg); color: var(--ink); }
 .side-rail button:hover { background: var(--gold); color: #fff; }
+
+/* Signature logo: a little taller than the old wide logo, so the name reads at the same size. */
+.logo-img { height: 64px; }
+.logo-img.logo-stacked { height: 140px; }
+@media (max-width: 600px) { .top .logo-img { height: 52px; } }

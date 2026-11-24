@@ -131,6 +131,6 @@ Events sent, with amounts in MAD: PageView, ViewContent (product page), AddToCar
 | `seed/sample.sql` | Sample products |
 | `test/` | `npm test` |
 
-**Logo:** the BonLuxe logo files are transparent PNGs in `brand/png/` (gold, black and white). The site uses the gold version: side by side in the header, stacked in the footer (`public/assets/brand/`), with the BL monogram ring for the browser tab and phone icons. `brandLogo()` in `src/render.js` picks which file is shown.
+**Logo:** the BonLuxe logo files are transparent PNGs in `brand/png/` (gold, black and white). The site uses the gold version: the italic signature in the header, the B monogram above it in the footer (`public/assets/brand/`), with the B monogram ring for the browser tab and phone icons. `brandLogo()` in `src/render.js` picks which file is shown.
 
 To change the colours, edit `--ink` (black) and `--accent` (sale red) at the top of `public/assets/style.css`. To change storefront wording, edit `src/i18n.js`.

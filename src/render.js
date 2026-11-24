@@ -38,12 +38,12 @@ function organizationLd(ctx) {
 }
 const BRAND_OG = '/assets/brand/og-image-v2.jpg';
 
-// The BonLuxe logo (BL monogram ring + wordmark, gold). Side by side in the header, stacked in the footer.
+// The BonLuxe logo (italic signature with a gold swash). Signature alone in the header, B monogram above it in the footer.
 // The link around it carries the store name for screen readers.
 function brandLogo(stacked = false) {
   return stacked
-    ? '<img class="logo-img logo-stacked" src="/assets/brand/logo-stacked-gold.png" alt="" width="361" height="285">'
-    : '<img class="logo-img" src="/assets/brand/logo-horizontal-gold.png" alt="" width="467" height="130">';
+    ? '<img class="logo-img logo-stacked" src="/assets/brand/logo-stacked-gold.png?v=2" alt="" width="250" height="224">'
+    : '<img class="logo-img" src="/assets/brand/logo-horizontal-gold.png?v=2" alt="" width="266" height="99">';
 }
 
 // Line icons (24×24, stroke = currentColor).
@@ -221,7 +221,7 @@ ${verify ? `<meta name="google-site-verification" content="${esc(verify)}">` : '
 ${preload ? `<link rel="preload" as="image" href="${esc(preload)}" fetchpriority="high">` : ''}
 <meta name="theme-color" content="#f6f3ec">
 <link rel="icon" href="/favicon.ico" sizes="48x48">
-<link rel="icon" href="/assets/favicon.png?v=6" type="image/png">
+<link rel="icon" href="/assets/favicon.png?v=7" type="image/png">
 <link rel="apple-touch-icon" href="/assets/brand/apple-touch-icon.png">
 <link rel="manifest" href="/manifest.webmanifest">
 <link rel="preconnect" href="https://fonts.googleapis.com">
