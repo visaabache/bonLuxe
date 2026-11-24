@@ -13,8 +13,8 @@
     {
       "binding": "DB",
       "database_name": "bonluxe",
-      // Create it with: npx wrangler d1 create bonluxe   then paste the database_id it prints over the zeros.
-      "database_id": "00000000-0000-0000-0000-000000000000",
+      // The live database, created with: npx wrangler d1 create bonluxe
+      "database_id": "a0b52e39-8073-4ec4-8430-2de37ec9a488",
       "migrations_dir": "migrations"
     }
   ],
