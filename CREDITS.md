@@ -6,13 +6,13 @@ Product photos were picked without visible brand logos.
 
 | File | Original |
 | --- | --- |
-| `hero-shopping` | [Unsplash](https://images.unsplash.com/photo-1445205170230-053b83016050) |
-| `hero-tech` | [Unsplash](https://images.unsplash.com/photo-1484704849700-f032a568e944) |
-| `hero-home` | [Unsplash](https://images.unsplash.com/photo-1586023492125-27b2c045efd7) |
-| `cat-tech` | [Unsplash](https://images.unsplash.com/photo-1496181133206-80ce9b88a853) |
-| `cat-fashion` | [Unsplash](https://images.unsplash.com/photo-1558769132-cb1aea458c5e) |
-| `cat-beauty` | [Unsplash](https://images.unsplash.com/photo-1596462502278-27bfdc403348) |
-| `cat-home` | [Unsplash](https://images.unsplash.com/photo-1578500494198-246f612d3b3d) |
+| `hero-shopping` | [Unsplash](https://images.unsplash.com/photo-1490481651871-ab68de25d43d) |
+| `hero-tech` | [Unsplash](https://images.unsplash.com/photo-1498049794561-7780e7231661) |
+| `hero-home` | [Unsplash](https://images.unsplash.com/photo-1616486338812-3dadae4b4ace) |
+| `cat-tech` | [Unsplash](https://images.unsplash.com/photo-1583394838336-acd977736f90) |
+| `cat-fashion` | [Unsplash](https://images.unsplash.com/photo-1485462537746-965f33f7f6a7) |
+| `cat-beauty` | [Unsplash](https://images.unsplash.com/photo-1487412947147-5cebf100ffc2) |
+| `cat-home` | [Unsplash](https://images.unsplash.com/photo-1584589167171-541ce45f1eea) |
 | `headphones` | [Unsplash](https://images.unsplash.com/photo-1546435770-a3e426bf472b) |
 | `smartwatch` | [Unsplash](https://images.unsplash.com/photo-1523275335684-37898b6baf30) |
 | `speaker` | [Unsplash](https://images.unsplash.com/photo-1545454675-3531b543be5d) |
@@ -25,6 +25,6 @@ Product photos were picked without visible brand logos.
 | `mug` | [Unsplash](https://images.unsplash.com/photo-1514228742587-6b1558fcca3d) |
 | `vase` | [Unsplash](https://images.unsplash.com/photo-1612196808214-b8e1d6145a8c) |
 | `lamp` | [Unsplash](https://images.unsplash.com/photo-1507473885765-e6ed057f782c) |
-| `delivery` | [Unsplash](https://images.unsplash.com/photo-1512909006721-3d6018887383) |
-| `kitchen` | [Unsplash](https://images.unsplash.com/photo-1556912173-3bb406ef7e77) |
-| `shop-bags` | [Unsplash](https://images.unsplash.com/photo-1441986300917-64674bd600d8) |
+| `delivery` | [Unsplash](https://images.unsplash.com/photo-1590874103328-eac38a683ce7) |
+| `kitchen` | [Unsplash](https://images.unsplash.com/photo-1610701596007-11502861dcfa) |
+| `shop-bags` | [Unsplash](https://images.unsplash.com/photo-1441984904996-e0b6ba687e04) |

@@ -6,37 +6,37 @@ export const PHOTO_CREDITS = [
   {
     "file": "hero-shopping",
     "photographer": "",
-    "url": "https://images.unsplash.com/photo-1445205170230-053b83016050"
+    "url": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d"
   },
   {
     "file": "hero-tech",
     "photographer": "",
-    "url": "https://images.unsplash.com/photo-1484704849700-f032a568e944"
+    "url": "https://images.unsplash.com/photo-1498049794561-7780e7231661"
   },
   {
     "file": "hero-home",
     "photographer": "",
-    "url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7"
+    "url": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace"
   },
   {
     "file": "cat-tech",
     "photographer": "",
-    "url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853"
+    "url": "https://images.unsplash.com/photo-1583394838336-acd977736f90"
   },
   {
     "file": "cat-fashion",
     "photographer": "",
-    "url": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e"
+    "url": "https://images.unsplash.com/photo-1485462537746-965f33f7f6a7"
   },
   {
     "file": "cat-beauty",
     "photographer": "",
-    "url": "https://images.unsplash.com/photo-1596462502278-27bfdc403348"
+    "url": "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2"
   },
   {
     "file": "cat-home",
     "photographer": "",
-    "url": "https://images.unsplash.com/photo-1578500494198-246f612d3b3d"
+    "url": "https://images.unsplash.com/photo-1584589167171-541ce45f1eea"
   },
   {
     "file": "headphones",
@@ -101,16 +101,16 @@ export const PHOTO_CREDITS = [
   {
     "file": "delivery",
     "photographer": "",
-    "url": "https://images.unsplash.com/photo-1512909006721-3d6018887383"
+    "url": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7"
   },
   {
     "file": "kitchen",
     "photographer": "",
-    "url": "https://images.unsplash.com/photo-1556912173-3bb406ef7e77"
+    "url": "https://images.unsplash.com/photo-1610701596007-11502861dcfa"
   },
   {
     "file": "shop-bags",
     "photographer": "",
-    "url": "https://images.unsplash.com/photo-1441986300917-64674bd600d8"
+    "url": "https://images.unsplash.com/photo-1441984904996-e0b6ba687e04"
   }
 ];

@@ -1268,3 +1268,9 @@ input:focus, select:focus, textarea:focus { border-color: var(--gold); box-shado
 .logo-img { height: 64px; }
 .logo-img.logo-stacked { height: 140px; }
 @media (max-width: 600px) { .top .logo-img { height: 52px; } }
+
+/* Light hero photos: shade the side the text sits on (bottom on phones) so white headlines stay readable. */
+.slide::after { background: linear-gradient(90deg, rgb(28 27 25 / 0.62), rgb(28 27 25 / 0.3) 50%, rgb(28 27 25 / 0.04) 80%), linear-gradient(180deg, rgb(28 27 25 / 0) 50%, rgb(28 27 25 / 0.4)); }
+[dir='rtl'] .slide::after { background: linear-gradient(270deg, rgb(28 27 25 / 0.62), rgb(28 27 25 / 0.3) 50%, rgb(28 27 25 / 0.04) 80%), linear-gradient(180deg, rgb(28 27 25 / 0) 50%, rgb(28 27 25 / 0.4)); }
+@media (max-width: 759px) { .slide::after, [dir='rtl'] .slide::after { background: linear-gradient(180deg, rgb(28 27 25 / 0.12) 15%, rgb(28 27 25 / 0.5) 50%, rgb(28 27 25 / 0.78) 100%); } }
+.slide .kicker { color: var(--ivory); }
