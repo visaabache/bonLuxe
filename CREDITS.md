@@ -6,7 +6,7 @@ Product photos were picked without visible brand logos.
 
 | File | Original |
 | --- | --- |
-| `hero-shopping` | [Unsplash](https://images.unsplash.com/photo-1490481651871-ab68de25d43d) |
+| `hero-shopping` | [Unsplash](https://images.unsplash.com/photo-1483985988355-763728e1935b) |
 | `hero-tech` | [Unsplash](https://images.unsplash.com/photo-1498049794561-7780e7231661) |
 | `hero-home` | [Unsplash](https://images.unsplash.com/photo-1616486338812-3dadae4b4ace) |
 | `cat-tech` | [Unsplash](https://images.unsplash.com/photo-1583394838336-acd977736f90) |

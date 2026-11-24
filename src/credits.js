@@ -6,7 +6,7 @@ export const PHOTO_CREDITS = [
   {
     "file": "hero-shopping",
     "photographer": "",
-    "url": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d"
+    "url": "https://images.unsplash.com/photo-1483985988355-763728e1935b"
   },
   {
     "file": "hero-tech",
