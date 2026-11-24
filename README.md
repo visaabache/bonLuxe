@@ -52,7 +52,7 @@ In the admin, go to **Réglages** and set the store name, your WhatsApp number, 
 
 **Domain:** set `SITE_URL` to `https://bonluxe.store` in `wrangler.jsonc` and uncomment `routes` once the domain is added to the same Cloudflare account, with its nameservers pointed to Cloudflare at the registrar. Until then the store answers on its workers.dev address.
 
-**Automatic deploys:** the Worker is connected to this GitHub repository (Cloudflare dashboard → Workers & Pages → bonluxe → Settings → Build, once you connect it), so every push to `main` deploys by itself, no computer needed. The deploy command applies new database migrations first: `npx wrangler d1 migrations apply bonluxe --remote && npx wrangler deploy`. Build logs are under the Worker's Deployments tab.
+**Automatic deploys:** the Worker is connected to this GitHub repository (Cloudflare dashboard → Workers & Pages → bonluxe → Settings → Builds), so every push to `main` deploys by itself, no computer needed. The deploy command applies new database migrations first: `npx wrangler d1 migrations apply bonluxe --remote && npx wrangler deploy`. Build logs are under the Worker's Deployments tab.
 
 When you change the database later, add a new file to `migrations/` (for example `0003_….sql`) and run `npm run db:migrate`.
 
